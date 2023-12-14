@@ -8,9 +8,9 @@ const arr = [
   "LoTML part 2",
   "Free hammer",
   "T10 Mats",
-  "Nytt gear?",
-  "RBF rewards",
-  "Nytt PvP läge",
+  "Bounty System",
+  "RBF Rewards",
+  "New PvP mode",
   "Demon region",
   "New mount",
   "Dancing for everyone",
@@ -21,13 +21,13 @@ const arr = [
   "Lifeskills family wide QoL",
   "Korean Drama mentioned",
   "New gearslot (like artifacts i.e)",
-  "New gearset",
+  "Artifact cups",
   "New class",
   "Grindable costume",
   "New Sea content",
   "New dungeon",
-  "Placeholder 1",
-  "Placeholder 2"
+  "Calamity 8-10",
+  "New Collab"
 ]
 
 const options = new Map();
