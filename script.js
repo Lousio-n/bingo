@@ -4,12 +4,12 @@ const generateButton = document.querySelector('.generate');
 
 const arr = [
    "3 kills with grenades",
-   "20 kills with model 37 in one life", 
+   "20 kills with model 37 in one life",
    "5 kills with revolver (mk or 27) in one life",
    "10 kills with throwing knife",
    "4 kills with welrod",
    "Top 3 in 2 games",
-   "3 kills with Boys AT rifle in one life", 
+   "3 kills with Boys AT rifle in one life",
    "Kill 5 people from a stationary turret",
    "10 kills from a tank or plane",
    "3 kills with fliegerfaust",
